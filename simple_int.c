@@ -3,7 +3,7 @@
 int main(){
   float a,r,t,si;
 
-  printf("This is the program to Find the Simple Interest with any interest rates, principle amount and during!!!!\n");
+  printf("This is the program to Find the Simple Interest with any interest rates, principle amount and during!!!\n");
   printf("Enter the Principle Amount: ");
   scanf("%f", &a);
   printf("Enter the Interest Rate: ");
